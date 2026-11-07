@@ -1,0 +1,3 @@
+Copyright (c) 2026 Akuma.
+
+Permission is granted to use, modify, and distribute this plugin as part of the Renegade NXT project and its development builds. Third-party redistribution outside that project should retain this notice.

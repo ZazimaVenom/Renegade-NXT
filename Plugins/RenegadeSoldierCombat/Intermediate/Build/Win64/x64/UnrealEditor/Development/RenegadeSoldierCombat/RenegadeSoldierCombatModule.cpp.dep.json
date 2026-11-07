@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\private\\renegadesoldiercombatmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\renegadesoldiercombat\\definitions.renegadesoldiercombat.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\public\\renegadesoldiercombatmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

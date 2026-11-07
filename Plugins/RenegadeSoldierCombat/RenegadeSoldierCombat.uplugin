@@ -1,0 +1,29 @@
+{
+    "FileVersion": 3,
+    "Version": 1800,
+    "VersionName": "1.8.0",
+    "FriendlyName": "Renegade NXT Combat, Harvester and Building Warfare",
+    "Description": "Renegade NXT soldier, building and harvester combat for UE5.8, including ballistic Grenadier soldiers, rockets, defensive Harvester warfare, player combat, structures and EVA.",
+    "Category": "AI",
+    "CreatedBy": "Renegade NXT",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "EngineVersion": "5.8.0",
+    "CanContainContent": true,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "RenegadeSoldierCombat",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "Niagara",
+            "Enabled": true
+        }
+    ]
+}

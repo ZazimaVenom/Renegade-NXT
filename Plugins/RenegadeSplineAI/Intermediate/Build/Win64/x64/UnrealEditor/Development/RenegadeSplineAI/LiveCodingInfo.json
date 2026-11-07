@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RenegadeSplineAI.cpp.obj": [
+			"RenegadeCharacterVehicleComponent.gen.cpp.obj",
+			"RenegadeSplineAI.init.gen.cpp.obj",
+			"RenegadeSplineAIBlueprintLibrary.gen.cpp.obj",
+			"RenegadeSplineAITypes.gen.cpp.obj",
+			"RenegadeSplineFollowerComponent.gen.cpp.obj",
+			"RenegadeSplinePath.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RenegadeCharacterVehicleComponent.cpp.obj",
+			"RenegadeSplineAIBlueprintLibrary.cpp.obj",
+			"RenegadeSplineAIModule.cpp.obj",
+			"RenegadeSplineFollowerComponent.cpp.obj",
+			"RenegadeSplinePath.cpp.obj"
+		]
+	}
+}

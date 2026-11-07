@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-RenegadeSplineAI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/619/Documents/Unreal Projects/Renegade-NXT/Intermediate/Build/Win64/x64/RenegadeNXTEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/619/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSplineAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSplineAI/Module.RenegadeSplineAI.cpp.obj"
+/OUT:"C:/Users/619/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSplineAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSplineAI/UnrealEditor-RenegadeSplineAI.lib"

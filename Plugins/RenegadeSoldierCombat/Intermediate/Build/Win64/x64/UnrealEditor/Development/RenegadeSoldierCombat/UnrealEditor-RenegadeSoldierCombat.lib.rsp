@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-RenegadeSoldierCombat.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/Module.RenegadeSoldierCombat.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeBuildingCombatComponent.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeCombatBlueprintLibrary.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeCombatRegistrySubsystem.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeHarvesterCombatComponent.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeHarvesterWreck.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeHarvestPoint.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeRefineryDockPoint.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombatComponent.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombatModule.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierSpawnPoint.cpp.obj"
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeTeamCreditsManager.cpp.obj"
+/OUT:"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/UnrealEditor-RenegadeSoldierCombat.lib"

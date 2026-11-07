@@ -1,0 +1,14 @@
+"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Source/RenegadeSoldierCombat/Private/RenegadeSoldierCombatComponent.cpp"
+@"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombat.Shared.rsp"
+/FI"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/Definitions.RenegadeSoldierCombat.h"
+/Yu"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombatComponent.cpp.obj"
+/experimental:log "C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombatComponent.cpp.sarif"
+/sourceDependencies "C:/Users/Zer/Documents/Unreal Projects/Renegade-NXT/Plugins/RenegadeSoldierCombat/Intermediate/Build/Win64/x64/UnrealEditor/Development/RenegadeSoldierCombat/RenegadeSoldierCombatComponent.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RenegadeSoldierCombat.cpp.obj": [
+			"RenegadeBuildingCombatComponent.gen.cpp.obj",
+			"RenegadeBuildingCombatTypes.gen.cpp.obj",
+			"RenegadeCombatBlueprintLibrary.gen.cpp.obj",
+			"RenegadeCombatMovementBridge.gen.cpp.obj",
+			"RenegadeCombatRegistrySubsystem.gen.cpp.obj",
+			"RenegadeCombatTypes.gen.cpp.obj",
+			"RenegadeHarvesterCombatComponent.gen.cpp.obj",
+			"RenegadeHarvesterCombatTypes.gen.cpp.obj",
+			"RenegadeHarvesterWreck.gen.cpp.obj",
+			"RenegadeHarvestPoint.gen.cpp.obj",
+			"RenegadeRefineryDockPoint.gen.cpp.obj",
+			"RenegadeSoldierCombat.init.gen.cpp.obj",
+			"RenegadeSoldierCombatComponent.gen.cpp.obj",
+			"RenegadeSoldierSpawnPoint.gen.cpp.obj",
+			"RenegadeTeamCreditsManager.gen.cpp.obj",
+			"RenegadeWeaponProfile.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RenegadeBuildingCombatComponent.cpp.obj",
+			"RenegadeCombatBlueprintLibrary.cpp.obj",
+			"RenegadeCombatRegistrySubsystem.cpp.obj",
+			"RenegadeHarvesterCombatComponent.cpp.obj",
+			"RenegadeHarvesterWreck.cpp.obj",
+			"RenegadeHarvestPoint.cpp.obj",
+			"RenegadeRefineryDockPoint.cpp.obj",
+			"RenegadeSoldierCombatComponent.cpp.obj",
+			"RenegadeSoldierCombatModule.cpp.obj",
+			"RenegadeSoldierSpawnPoint.cpp.obj",
+			"RenegadeTeamCreditsManager.cpp.obj"
+		]
+	}
+}

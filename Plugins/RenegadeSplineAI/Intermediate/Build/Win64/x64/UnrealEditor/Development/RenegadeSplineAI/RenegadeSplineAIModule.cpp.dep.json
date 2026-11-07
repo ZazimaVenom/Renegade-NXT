@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\619\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesplineai\\source\\renegadesplineai\\private\\renegadesplineaimodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\619\\documents\\unreal projects\\renegade-nxt\\intermediate\\build\\win64\\x64\\renegadenxteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\619\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesplineai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\renegadesplineai\\definitions.renegadesplineai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

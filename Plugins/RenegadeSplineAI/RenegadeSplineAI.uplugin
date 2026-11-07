@@ -1,0 +1,21 @@
+{
+  "FileVersion": 3,
+  "Version": 10100,
+  "VersionName": "1.1.0",
+  "FriendlyName": "Renegade Spline AI",
+  "Description": "Server-authoritative spline route following with cooperative combat movement ownership and vehicle-like locomotion for Character Blueprint tanks, harvesters, and other AI units.",
+  "Category": "AI",
+  "CreatedBy": "Akuma / OpenAI",
+  "EngineVersion": "5.8.0",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "EnabledByDefault": false,
+  "Modules": [
+    {
+      "Name": "RenegadeSplineAI",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\private\\renegadeharvestpoint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\renegadesoldiercombat\\definitions.renegadesoldiercombat.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\public\\renegadeharvestpoint.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\unrealeditor\\inc\\renegadesoldiercombat\\uht\\renegadeharvestpoint.generated.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\public\\renegadeharvestercombatcomponent.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\public\\renegadeharvestercombattypes.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\unrealeditor\\inc\\renegadesoldiercombat\\uht\\renegadeharvestercombattypes.generated.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\source\\renegadesoldiercombat\\public\\renegaderefinerydockpoint.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\unrealeditor\\inc\\renegadesoldiercombat\\uht\\renegaderefinerydockpoint.generated.h",
+            "c:\\users\\zer\\documents\\unreal projects\\renegade-nxt\\plugins\\renegadesoldiercombat\\intermediate\\build\\win64\\unrealeditor\\inc\\renegadesoldiercombat\\uht\\renegadeharvestercombatcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
