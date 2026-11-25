@@ -1,10 +1,20 @@
 # Renegade-NXT
 
-<img width="3540" height="1817" alt="Main" src="https://github.com/user-attachments/assets/ed3ce490-7257-4b9c-8548-8e58b930a585" />
-
 C&C Renegade NXT is an open-source third-person action game project being developed in Unreal Engine 5.8
 
 The project explores and modernises infantry combat TPS, vehicles, team bases, resource systems and single player gameplay inspired by Command & Conquer: Renegade and Renegade X.
+
+==================================================
+
+<img width="3540" height="1817" alt="1" src="https://github.com/user-attachments/assets/2bf54a84-f8a3-42f4-a17a-a2a556557d49" />
+
+<img width="3020" height="1722" alt="2" src="https://github.com/user-attachments/assets/06c0efa6-30d1-41be-a913-42ed49249f0f" />
+
+<img width="3034" height="1725" alt="3" src="https://github.com/user-attachments/assets/4c74445a-355b-48d7-a741-ed52f41d16d3" />
+
+<img width="3022" height="1718" alt="4" src="https://github.com/user-attachments/assets/418c2b33-e5c7-483c-939a-e3a0546f6d23" />
+
+<img width="3005" height="1714" alt="5" src="https://github.com/user-attachments/assets/19c477bd-5510-4e40-9376-1752776d49ac" />
 
 ==================================================
 
@@ -90,17 +100,5 @@ Player Inputs:
 | Select pistol          | 2                  | D-Pad Down           |
 | Look and aim direction | Mouse X/Y          | Right Stick          |
 | Toggle Lock On Target  | Left Alt           | LB Button            |
-
-==================================================
-
-<img width="3840" height="2073" alt="Perfect" src="https://github.com/user-attachments/assets/ce249797-8541-4529-a931-c772c1b6c5c7" />
-
-<img width="3813" height="2004" alt="1" src="https://github.com/user-attachments/assets/d4d4e3e7-5c10-465d-b84a-1fa346a925e3" />
-
-<img width="3812" height="2006" alt="2" src="https://github.com/user-attachments/assets/4ea12223-0ed0-45bc-a48a-f2ab74710f56" />
-
-<img width="3810" height="2009" alt="3" src="https://github.com/user-attachments/assets/a937b69e-78ba-4964-a3a4-fc0da74135eb" />
-
-<img width="3805" height="1996" alt="4" src="https://github.com/user-attachments/assets/150ede18-6e41-494d-9002-d925845c64ed" />
 
 ==================================================
